@@ -1,0 +1,5 @@
+client_secret.json
+__pycache__/redmine.cpython-34.pyc
+bin/*
+config.ini
+lib/*
