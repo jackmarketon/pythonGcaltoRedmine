@@ -3,3 +3,5 @@ __pycache__/redmine.cpython-34.pyc
 bin/*
 config.ini
 lib/*
+pip-selfcheck.json
+pyvenv.cfg
